@@ -1,3 +1,9 @@
+![Leonardo_Phoenix_10_create_an_image_of_a_happy_female_podcaste_0 1](https://github.com/user-attachments/assets/005e7894-27a9-4368-8dd8-d24f9a2bba79)
+
+
+
+
+
 # Projeto Podcast Gerado por I.A.s
 
 Projeto para gerar um PODCAST utilizando ferramentas de IA.
